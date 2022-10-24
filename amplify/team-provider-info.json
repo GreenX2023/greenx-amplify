@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-greenx-dev-103948-authRole",
+      "UnauthRoleArn": "arn:aws:iam::441385268025:role/amplify-greenx-dev-103948-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::441385268025:role/amplify-greenx-dev-103948-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-greenx-dev-103948-deployment",
+      "UnauthRoleName": "amplify-greenx-dev-103948-unauthRole",
+      "StackName": "amplify-greenx-dev-103948",
+      "StackId": "arn:aws:cloudformation:ap-south-1:441385268025:stack/amplify-greenx-dev-103948/98181ee0-4c47-11ed-b2e8-0274149c66cc",
+      "AmplifyAppId": "d1dyu0d3we48rm"
+    },
+    "categories": {
+      "api": {
+        "greenx": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1dyu0d3we48rm",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "greenxd1758068": {}
+      }
+    }
+  }
+}
